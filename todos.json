@@ -4,6 +4,16 @@
       "id": 1,
       "name": "Learn about unknow types",
       "isDone": false
+    },
+    {
+      "id": 2,
+      "name": "WtF",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "name": "Sacar al perro",
+      "isDone": false
     }
   ]
 }
